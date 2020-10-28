@@ -1,4 +1,0 @@
-#ignorar archivos que empiezan por _
-_*.*
-#no ignorarn _ayuda.txt
-!_ayuda.txt
